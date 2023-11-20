@@ -14,3 +14,6 @@ Para escribir el resultado del whoami utilizaremos una redirección para que añ
 Ahora queremos añadir al final de dicho archivo el resultado del comando para saber todas las maquinas que estan conectadas por SSh, el comando a utilizar es bastante parecido al anterior, lo unico que cambia que en lugar de utilizar un simbolo de "mayor que" utilizaremos dos,
 el comando quedaria de la siguiente manera _who >> TuNombreyApellidos.txt_
 ![Comprobación Añadir Who Final del Archivo](https://github.com/MarioTarrega/ExamenDWC/blob/main/Comando_Who_mas_Comprobacion.png)
+
+
+#Ejericicio 3
