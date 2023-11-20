@@ -25,3 +25,7 @@ ya que tanto para crear este documeto, como las redacciones de los ejercicios he
 
 ### Valoración
 El examen es bastante fácil de aprobar, lo unico dificil desde mi punto de vista en a la hora de redactar y que soy un negado para eso ya que no es mi punto fuerte, asi que intento redactar de la mejor manera posible y que sea de tu agrado.
+
+
+No vamos a dejar examen si meme asi que aqui tienes.
+![Imagen meme](https://github.com/MarioTarrega/ExamenDAW/blob/main/01bdece43d05af90bb7528d186b2c04b.jpg)
