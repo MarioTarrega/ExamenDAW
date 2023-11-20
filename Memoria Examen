@@ -1,0 +1,10 @@
+# Ejercicio 2
+
+Lo primero que haremos para acceder a dicha maquina sera utilizar el comando _ssh (nombreUsuario)@ipMaquina_ unavex ejecutado el comando nos dira que hemos creado una __key fingerprint__ y escribiremos ***yes*** , una vez escrito eso ya estaremos dentro de la maquina servidor mediante ssh.
+
+
+A continuación para ir al "Escritorio" y crear un archivo (.txt) haremos los siguientes pasos:
+1. Utilizaremos el comando _cd /Escritorio_ para acceder al directorio del Escritorio.
+2. Ahora vamos a crear el archivo el cual nombremos con nuestro nombre (TuNombreyApellidos.txt) para ello utilizaremos el comando _touch TuNombreyApellidos.txt).
+
+Para escribir el resultado del whoami
